@@ -52,4 +52,12 @@ Bagian ini adalah bagian yang dimana pengguna dapat menghapus data dari penerbit
 
 <img width="501" height="345" alt="Screenshot 2026-09-15 220131" src="https://github.com/user-attachments/assets/996b685d-aa03-4e2c-9e57-f4a7c28eeffe" />
 
-Ini adalah contoh output nya, dimana jika program
+Ini adalah contoh output nya, dimana jika data tersedia, program akan menghapus data penulis tersebut. Dan jika  tidak ada, maka program akan memberi tau kalau data tidak tersedia.
+
+<img width="704" height="117" alt="Screenshot 2026-09-15 221018" src="https://github.com/user-attachments/assets/26ce8953-2258-4a01-9ec9-3bdf7aeaf375" />
+
+Bagian ini merupakan bagian terakhir atau pilihan terakhir yang digunakan jika pengguna telah selesai dan memilih untuk keluar dari program. Break tentu saja digunakan untuk berhenti dari looping atau while.
+
+<img width="556" height="37" alt="Screenshot 2026-09-15 221300" src="https://github.com/user-attachments/assets/697ac6c8-0d24-4f13-a8fb-e9c7f2bfdc34" />
+
+Ini adalah contoh outputnya. Dimana program telah berhenti karena pengguna memilih untuk memilih menu keluar dan mengakhiri program phyton tersebut.
