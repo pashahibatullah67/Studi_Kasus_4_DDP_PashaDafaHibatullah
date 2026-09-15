@@ -35,6 +35,9 @@ Pada bagian ini digunakan untuk menambahkan data penerbit ke dalam dictionaary b
 
 <img width="438" height="285" alt="Screenshot 2026-09-15 211120" src="https://github.com/user-attachments/assets/a950b789-7754-4916-b4d3-b6809dba0672" />
 
-Ini merupakan contoh output yang dimana pengguna akan diminta untuk menambahkan nama dari sang penerbit buku tersebut, dan jika sudah di masukkan maka akan tertampil jika kita memilih pilihan nomor 1 kembali. Fungsi dari "if 'penerbit' in' adalah supaya penerbit tidak akan tertampil jika kita belum memasukkan atau menambahkan data dari penerbit jika kita memilih pilihan 1 duluan. Dan akan tertampil saat kita telah memasukkan nama dari penerbit tersebut jika kita menggunakan pilihan 1.
 
+Ini merupakan contoh output yang dimana pengguna akan diminta untuk menambahkan nama dari sang penerbit buku tersebut, dan jika sudah di masukkan maka akan tertampil jika kita memilih pilihan nomor 1 kembali. Fungsi dari "if 'penerbit' in'" pada poin sebelumnya adalah supaya penerbit tidak akan tertampil jika kita belum memasukkan atau menambahkan data dari penerbit jika kita memilih pilihan 1 duluan. Dan akan tertampil saat kita telah memasukkan nama dari penerbit tersebut jika kita menggunakan pilihan 1.<img width="684" height="202" alt="Screenshot 2026-09-15 214906" src="https://github.com/user-attachments/assets/98381def-c533-4735-a284-d049942acfbe" />
 
+<img width="684" height="202" alt="Screenshot 2026-09-15 214906" src="https://github.com/user-attachments/assets/15efe0d6-8536-441e-b2f4-40bce278ce46" />
+
+Bagian ini digunakan untuk mengubah data dari sang penulis yang sebelumnya tersimpan menjadi nama penulis buku yang baru dari yang pengguna dimasukkan.
