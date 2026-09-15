@@ -36,8 +36,20 @@ Pada bagian ini digunakan untuk menambahkan data penerbit ke dalam dictionaary b
 <img width="438" height="285" alt="Screenshot 2026-09-15 211120" src="https://github.com/user-attachments/assets/a950b789-7754-4916-b4d3-b6809dba0672" />
 
 
-Ini merupakan contoh output yang dimana pengguna akan diminta untuk menambahkan nama dari sang penerbit buku tersebut, dan jika sudah di masukkan maka akan tertampil jika kita memilih pilihan nomor 1 kembali. Fungsi dari "if 'penerbit' in'" pada poin sebelumnya adalah supaya penerbit tidak akan tertampil jika kita belum memasukkan atau menambahkan data dari penerbit jika kita memilih pilihan 1 duluan. Dan akan tertampil saat kita telah memasukkan nama dari penerbit tersebut jika kita menggunakan pilihan 1.<img width="684" height="202" alt="Screenshot 2026-09-15 214906" src="https://github.com/user-attachments/assets/98381def-c533-4735-a284-d049942acfbe" />
+Ini merupakan contoh output yang dimana pengguna akan diminta untuk menambahkan nama dari sang penerbit buku tersebut, dan jika sudah di masukkan maka akan tertampil jika kita memilih pilihan nomor 1 kembali. Fungsi dari "if 'penerbit' in'" pada poin sebelumnya adalah supaya penerbit tidak akan tertampil jika kita belum memasukkan atau menambahkan data dari penerbit jika kita memilih pilihan 1 duluan. Dan akan tertampil saat kita telah memasukkan nama dari penerbit tersebut jika kita menggunakan pilihan 1.
 
 <img width="684" height="202" alt="Screenshot 2026-09-15 214906" src="https://github.com/user-attachments/assets/15efe0d6-8536-441e-b2f4-40bce278ce46" />
 
 Bagian ini digunakan untuk mengubah data dari sang penulis yang sebelumnya tersimpan menjadi nama penulis buku yang baru dari yang pengguna dimasukkan.
+
+<img width="460" height="411" alt="Screenshot 2026-09-15 215403" src="https://github.com/user-attachments/assets/4c0bc37a-e918-474e-bb71-8e768b77b8ff" />
+
+Ini merupakan contoh output yang dimana pengguna akan memasukkan nama penulis buku yang baru, dan tentu saja program tidak memperbolehkan pengguna untuk mengisi data tersebut kosong, karna buku pasti perlu yang namanya penulis. Setelah pengguna mengubah nama dari penulis buku, saat ditampilkan, maka nama penulis sebelumnya telah berubah menjadi nama penulis yang sekarang.
+
+<img width="652" height="146" alt="Screenshot 2026-09-15 215817" src="https://github.com/user-attachments/assets/952716af-6353-454b-85a2-7656143997a5" />
+
+Bagian ini adalah bagian yang dimana pengguna dapat menghapus data dari penerbit buku tersebut. Tapi sebelum itu, program akan mengecek apakah data dari penerbit tersedia atau tidak. Jika tidak ada, maka program akan memberi tau bahwa data tidak tersedia. Dan jika ada, maka program akan menghapus data dari penerbit buku tersebut.
+
+<img width="501" height="345" alt="Screenshot 2026-09-15 220131" src="https://github.com/user-attachments/assets/996b685d-aa03-4e2c-9e57-f4a7c28eeffe" />
+
+Ini adalah contoh output nya, dimana jika program
